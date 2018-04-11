@@ -1,2 +1,2 @@
 # Mages
-Mage Project for 1.12 WoW
+Mage repo for 1.12 WoW
