@@ -1,2 +1,2 @@
 # Mages
-Mage Project for WoW 1.12 
+Mage Project for 1.12 WoW
